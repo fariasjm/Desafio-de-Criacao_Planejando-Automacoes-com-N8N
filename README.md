@@ -1,0 +1,1 @@
+# Desafio-de-Criacao_Planejando-Automacoes-com-N8N
