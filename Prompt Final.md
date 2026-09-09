@@ -1,3 +1,5 @@
+## Prompt
+
 Atue como um especialista em N8N.
 
 Crie uma automação para registrar leads recebidos por formulário.
@@ -16,7 +18,7 @@ Ignorar registros sem e-mail válido.
 
 Explique quais nós do N8N devem ser utilizados e a lógica de funcionamento do workflow.
 
-
+## Automação
 
 Perfeito! Vou atuar como especialista em N8N para criar uma automação robusta e profissional para captura de leads via Google Forms, com registro em planilha e envio de e-mail de confirmação.
 
